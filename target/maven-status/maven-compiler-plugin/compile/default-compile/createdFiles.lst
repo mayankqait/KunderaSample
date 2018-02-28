@@ -1,0 +1,7 @@
+com/infotech/entity/Preference.class
+com/infotech/entity/PersonalDetail.class
+com/infotech/entity/Tweet.class
+com/infotech/service/TwitterExample.class
+com/infotech/service/TwitterService.class
+com/infotech/entity/User.class
+com/infotech/entity/ExternalLink.class
