@@ -34,7 +34,7 @@ public class User
 
     // Element collection, will persist co-located
     @ElementCollection
-    @CollectionTable(name = "tweeted", joinColumns = @JoinColumn(name = "userId"))
+    @CollectionTable(name = "tweeted", joinColumns = @JoinColumn(name = "USER_ID"))
     private List<Tweet> tweets;
 
     // One to many, will be persisted separately
